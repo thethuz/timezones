@@ -1,0 +1,13 @@
+{
+    "name": "laraveldaily/timezones",
+    "type": "path",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nguyen Vu The Thu",
+            "email": "thunt@arrow-tech.vn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
